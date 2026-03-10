@@ -1,0 +1,78 @@
+li{
+            color:blueviolet;
+            border:1pc solid olive;
+            height:40px;
+            font-weight:100;
+            font-family: 'Times New Roman', Times, serif;
+            display: inline-flexbox;
+            word-spacing:1cm;
+            
+            
+    }
+    /*style="background-image:url('https://images.stockcake.com/public/a/c/6/ac6e7d92-9e4c-4038-89f3-ed22e65608a2_large/starry-night-sky-stockcake.jpg');"*/
+     /*   p{
+             color:blueviolet;
+            border:30px solid blue;
+            height:200px;
+            font-weight:100;
+            font-family: 'Times New Roman', Times, serif;
+            display: inline-flexbox;
+             background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiIpCTXowILNQmeYVEyx2KryCGnNgt3EPtg&s');
+    }*/
+        
+     img{ color:blueviolet;
+            border:20px solid;
+            height:400px;
+            font-weight:300;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            display:grid;
+        }
+        h1,h4,h5{ color:blueviolet;
+            border:5px solid black ;
+            height:30px;
+            font-weight:100;
+            font-family: 'Times New Roman', Times, serif;
+            display: inline-flexbox;}
+            div{
+                color:aqua;
+                border: 20px solid;
+            
+            }
+    /* class selector */
+   /* .c1{
+        color:blueviolet;
+            border:5px solid black ;
+        
+    }
+    .c2{color:olivedrab;
+            border:5px solid ;
+    }*/
+    /*id selector*/
+   /* #p1{
+        color:blueviolet;
+            border:5px solid black ; 
+            background-color: aqua;
+    }
+    #p2{
+         color:grey;
+            border:5px solid blue ;
+            background-color: azure;
+    }
+    #p3{
+         color:black;
+            border:5px solid green ;
+            background-color: pink;
+    }
+    #p4{
+         color:blueviolet;
+            border:5px solid chocolate ;
+            background-color: magenta;
+    }*/
+    /*universal selector*/
+    *{
+         color:blueviolet;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-size: medium;
+    background-color: khaki;
+    
+    }
